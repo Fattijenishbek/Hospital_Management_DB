@@ -1,5 +1,4 @@
 # Healthcare Management System
-<img alt="project" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/project-theme.png" />
 
 ### PROJECT DESCRIPTION
 
