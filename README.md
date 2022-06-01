@@ -36,11 +36,3 @@ In order to eliminate these problems, we have designed a centralised database fo
 - Microsoft SQL Server
 - Power BI
 
-### INSTALL AND EXECUTE
-
-- Install Microsoft SQL Server
-- Import HealthCare(DDL).sql and execute the script to create database and tables
-- Import HealthCare(DML).sql and execute the script to add mock data
-- Import HealthCare(Programmability).sql and execute the script to create Stored Procedures, Views, Triggers, Encryption for SSN, Non-clustered Index of the database
-- Install Power BI
-- Connect to database and open the visualization.pbix to view dashboards
