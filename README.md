@@ -33,7 +33,6 @@ In order to eliminate these problems, we have designed a centralised database fo
 
 ### LANGUAGE AND TOOLS
 
-- TSQL
 - Microsoft SQL Server
 - Power BI
 
