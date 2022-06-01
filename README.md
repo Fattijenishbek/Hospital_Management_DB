@@ -28,10 +28,6 @@ In order to eliminate these problems, we have designed a centralised database fo
 
 1. Count of patients for each Doctor
 	<img alt="viz1" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz1.png" />
-2. Count of patients associated with each Insurance company
-	<img alt="viz2" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz2.png" />
-3. Diagnosis
-	<img alt="viz3" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz3.png" />
 	
 ---
 
