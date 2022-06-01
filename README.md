@@ -32,10 +32,6 @@ In order to eliminate these problems, we have designed a centralised database fo
 	<img alt="viz2" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz2.png" />
 3. Diagnosis
 	<img alt="viz3" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz3.png" />
-4. Medicine Usage
-	<img alt="viz4" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz4.png" />
-5. Financial Transactions
-	<img alt="viz5" src="https://github.com/v-abhishek/healthcare-management-system/blob/main/images/viz5.png" />
 	
 ---
 
